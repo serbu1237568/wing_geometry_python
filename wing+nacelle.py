@@ -1,4 +1,8 @@
 #!/usr/bin/env python3
+# Copyright (c) 2025 [Mihai]
+#
+# This code is licensed under the MIT License.
+# See the LICENSE file in the project root for full license terms.
 import gmsh
 import numpy as np
 from math import pi, sqrt, cos, sin, atan
@@ -198,3 +202,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
