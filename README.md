@@ -22,3 +22,13 @@ This repository uses python and a gmsh environment
 - NACELLE_RADIUS -> radius of the nacelle
 - NACELLE_LENGTH -> length of the nacelle
 - mid_span_z = semi_span * 0.5  -> modify the position of the nacelle along the wing (z directio)
+
+# Python package to install:
+- pip install gmsh
+- pip install numpy
+
+
+
+
+# Author 
+Mihai Serbu
