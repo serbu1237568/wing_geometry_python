@@ -27,7 +27,7 @@ This repository uses python and a gmsh environment
 - pip install gmsh
 - pip install numpy
 
-![Alt text](wing.png)
+![Alt text](wing_geometry_python/wing.png/)
 
 
 
