@@ -28,7 +28,8 @@ This repository uses python and a gmsh environment
 - pip install numpy
 
 ![Wing geometry](Images/wing.PNG)
-
+----------------------------------------------------
+![Wing geometry](Images/wing_nacelle.PNG)
 
 
 # Author 
